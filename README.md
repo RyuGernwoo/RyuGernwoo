@@ -1,9 +1,9 @@
 ## Hi there 👋
 Gachon University AI/SW
 
-| | |
+|asdf|asdf|asdf|
 |---|---|---|
-| | |
+|asdf|asdf|asdf|
 
 <summary><b>OS & Tools 🔨</b></summary>
 <hr>
@@ -15,5 +15,4 @@ Gachon University AI/SW
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=flat-square&logoColor=white)   
 ![Ros](https://img.shields.io/badge/-ROS-22314E?logo=Ros&style=flat-square&logoColor=white)   
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&style=flat-square&logoColor=white)
-![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)<summary><b>OS & Tools 🔨</b></summary>
-<hr>
+![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?logo=Transformers&style=flat-square&logoColor=white)
